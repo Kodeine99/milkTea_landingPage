@@ -1,0 +1,20 @@
+@media (max-width : 700px) {
+    .vertical__bar {
+        display: none;
+    }
+    .middle {
+        margin: 50px 40px;
+    }
+    .title {
+        font-size: 40px;
+    }
+    .nontification {
+        width: 100%;
+    }
+    .header__nav {
+        margin: 10px 30px;    
+    }
+    .nav__list {
+        margin-left: 0;
+    }
+}
